@@ -16,12 +16,12 @@ MonoBehaviour:
   HasPlatforms: 0
   sourceProjectPath: 
   SourceProjectPathUnformatted: 
-  SourceBankPathUnformatted: D:\Projekte\FMOD\PlaygroundVRAudioChallenge\Build\Desktop
+  SourceBankPathUnformatted: Assets\FMOD\Master Bank
   AutomaticEventLoading: 1
   AutomaticSampleLoading: 0
   ImportType: 0
   TargetAssetPath: 
-  LoggingLevel: 2
+  LoggingLevel: 1
   SpeakerModeSettings:
   - Platform: 2
     Value: 6
