@@ -1,28 +1,23 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlatformManager : MonoBehaviour
 {
-    public GameObject FPSController;
-    public GameObject VRPlayer;
+    [SerializeField]
+    private GameObject _XRRig;
+    [SerializeField]
+    private GameObject _FPSController;
 
-    void Awake()
+    private void OnEnable()
     {
+
 #if UNITY_EDITOR
-        FPSController.SetActive(true);
-        VRPlayer.SetActive(false);
-#endif
+        _FPSController?.SetActive(true);
+        _XRRig?.SetActive(false);
 
-#if UNITY_ANDROID
-        VRPlayer.SetActive(true);
-        FPSController.SetActive(false);
-        //UnityEngine.XR.XRSettings.eyeTextureResolutionScale = 2.0f;
+#elif UNITY_ANDROID
+        _XRRig?.SetActive(true);
+        _FPSController?.SetActive(false);
 #endif
-    }
-
-    void Update()
-    {
 
     }
 }
