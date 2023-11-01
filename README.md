@@ -27,9 +27,6 @@ Spatial Audio Fields is an immersive VR project designed for the Oculus Quest 2 
 3. Ensure you have the Oculus Integration and FMOD Studio properly configured in the project.
 4. Load the project scene and press the Play button to experience Spatial Audio Fields in VR.
 
-## Contributors
-
-- Luca (GitHub: [@yourgithubusername](https://github.com/yourgithubusername))
 
 ## License
 
