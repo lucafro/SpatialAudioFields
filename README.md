@@ -15,17 +15,10 @@ Spatial Audio Fields is an immersive VR project designed for the Oculus Quest 2 
 ### Prerequisites
 
 - [Unity](https://unity.com/) - Make sure you have Unity installed.
-- [Oculus Integration for Unity](https://developer.oculus.com/downloads/package/unity-integration/) - Download and import the Oculus Integration package for Unity.
-- [FMOD Studio](https://www.fmod.com/download) - Install FMOD Studio for audio design and integration.
 
 ### Installation
 
 1. Clone or download this repository.
 2. Open the Unity project by launching Unity and selecting "Open Project." Browse to the project folder.
-3. Ensure you have the Oculus Integration and FMOD Studio properly configured in the project.
 4. Load the project scene and press the Play button to experience Spatial Audio Fields in VR.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
