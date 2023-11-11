@@ -1,4 +1,4 @@
-# Spatial Audio Fields - A VR Experience showcasing the Power of Spatial Audio
+# Spatial Audio Fields
 
 Spatial Audio Fields is an immersive VR project designed for the Oculus Quest 2 that showcases the incredible power of spatial audio. In this project, users can explore three distinct "audio fields," each indicated by unique ground textures. These fields offer intricate audio experiences in different themes, all made possible by spatialized audio sources using FMOD.
 
