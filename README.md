@@ -10,13 +10,12 @@ Spatial Audio Fields is an immersive VR project that showcases the incredible po
 
 - **Spatialized Audio with FMOD**: We've implemented spatialized audio sources using FMOD, ensuring that the sound in each field is positioned and moves realistically in the 3D space.
 
-## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - [Unity](https://unity.com/) - Make sure you have Unity installed.
 
-### Installation
+## Installation
 
 1. Clone or download this repository.
 2. Open the Unity project by launching Unity and selecting "Open Project." Browse to the project folder.
