@@ -2,6 +2,8 @@
 
 Spatial Audio Fields is an immersive VR project that showcases the incredible power of spatial audio. In this project, users can explore three distinct "audio fields," each indicated by unique ground textures. These fields offer intricate audio experiences in different themes, all made possible by spatialized audio sources using FMOD.
 
+![saf3](https://github.com/user-attachments/assets/6c69adab-62e7-4878-b4b0-1fcb3f453dbc)
+
 ## Features
 
 - **Immersive VR Experience**: Dive into a virtual world using your Oculus Quest 2 and experience the magic of spatial audio.
@@ -20,6 +22,3 @@ Spatial Audio Fields is an immersive VR project that showcases the incredible po
 1. Clone or download this repository.
 2. Open the Unity project by launching Unity and selecting "Open Project." Browse to the project folder.
 4. Load the project scene and press the Play button to experience Spatial Audio Fields in VR.
-
-
-![saf3](https://github.com/user-attachments/assets/6c69adab-62e7-4878-b4b0-1fcb3f453dbc)
