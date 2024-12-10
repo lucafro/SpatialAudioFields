@@ -1,6 +1,7 @@
 # Spatial Audio Fields
 
 Spatial Audio Fields is an immersive VR project that showcases the incredible power of spatial audio. In this project, users can explore three distinct "audio fields," each indicated by unique ground textures. These fields offer intricate audio experiences in different themes, all made possible by spatialized audio sources using FMOD.
+
 More information can be found [on my website](https://lucafroesler.com/projects/spatial-audio-fields).
 
 ![saf3](https://github.com/user-attachments/assets/6c69adab-62e7-4878-b4b0-1fcb3f453dbc)
